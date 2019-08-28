@@ -1,0 +1,38 @@
+{
+  "name": "color",
+  "version": "1.0.0",
+  "description": "My project",
+  "author": "Takahito Inoue",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^3.0.0-beta.16",
+    "clipboard": "^2.0.4",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.0.0",
+    "nuxt-stylus-resources-loader": "^2.0.0",
+    "pug": "^2.0.4",
+    "pug-loader": "^2.4.0",
+    "pug-plain-loader": "^1.0.0",
+    "stylus": "^0.54.6",
+    "stylus-loader": "^3.0.2",
+    "viewport-units-buggyfill": "^0.6.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^5.0.1",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-loader": "^2.0.0",
+    "eslint-plugin-prettier": "2.6.2",
+    "eslint-plugin-vue": "^4.0.0",
+    "nodemon": "^1.11.0",
+    "prettier": "1.14.3"
+  }
+}

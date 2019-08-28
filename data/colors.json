@@ -1,0 +1,1486 @@
+[
+  {
+    "name": "adobe",
+    "code": "#ff0000"
+  },
+  {
+    "name": "airbnb",
+    "code": "#fd5c63"
+  },
+  {
+    "name": "alibaba",
+    "code": "#ff6a00"
+  },
+  {
+    "name": "amazon",
+    "code": "#ff9900"
+  },
+  {
+    "name": "amazon-2",
+    "code": "#146eb4"
+  },
+  {
+    "name": "android",
+    "code": "#a4c639"
+  },
+  {
+    "name": "angularjs",
+    "code": "#b52e31"
+  },
+  {
+    "name": "angularjs-2",
+    "code": "#000000"
+  },
+  {
+    "name": "asana",
+    "code": "#3be8b0"
+  },
+  {
+    "name": "asana-2",
+    "code": "#1aafd0"
+  },
+  {
+    "name": "asana-3",
+    "code": "#6a67ce"
+  },
+  {
+    "name": "asana-4",
+    "code": "#ffb900"
+  },
+  {
+    "name": "asana-5",
+    "code": "#fc636b"
+  },
+  {
+    "name": "askfm",
+    "code": "#db3552"
+  },
+  {
+    "name": "atlassian",
+    "code": "#003366"
+  },
+  {
+    "name": "baidu",
+    "code": "#de0f17"
+  },
+  {
+    "name": "baidu-2",
+    "code": "#2529d8"
+  },
+  {
+    "name": "bing",
+    "code": "#ffb900"
+  },
+  {
+    "name": "bing-2",
+    "code": "#505050"
+  },
+  {
+    "name": "bing-3",
+    "code": "#a3a3a3"
+  },
+  {
+    "name": "bitbucket",
+    "code": "#205081"
+  },
+  {
+    "name": "blogger",
+    "code": "#f57d00"
+  },
+  {
+    "name": "booking-com",
+    "code": "#003580"
+  },
+  {
+    "name": "booking-com-2",
+    "code": "#009fe3"
+  },
+  {
+    "name": "booking-com-3",
+    "code": "#feba02"
+  },
+  {
+    "name": "booking-com-4",
+    "code": "#666666"
+  },
+  {
+    "name": "booking-com-5",
+    "code": "#f2f6fa"
+  },
+  {
+    "name": "bower",
+    "code": "#ffcc2f"
+  },
+  {
+    "name": "bower-2",
+    "code": "#ef5734"
+  },
+  {
+    "name": "bower-3",
+    "code": "#00acee"
+  },
+  {
+    "name": "bower-4",
+    "code": "#2baf2b"
+  },
+  {
+    "name": "bower-5",
+    "code": "#543729"
+  },
+  {
+    "name": "bower-6",
+    "code": "#cecece"
+  },
+  {
+    "name": "buzzfeed",
+    "code": "#ee3322"
+  },
+  {
+    "name": "change-org",
+    "code": "#ec2c22"
+  },
+  {
+    "name": "coca-cola",
+    "code": "#ed1c16"
+  },
+  {
+    "name": "codepen",
+    "code": "#0ebeff"
+  },
+  {
+    "name": "codepen-2",
+    "code": "#47cf73"
+  },
+  {
+    "name": "codepen-3",
+    "code": "#ae63e4"
+  },
+  {
+    "name": "codepen-4",
+    "code": "#fcd000"
+  },
+  {
+    "name": "codepen-5",
+    "code": "#ff3c41"
+  },
+  {
+    "name": "codepen-6",
+    "code": "#76daff"
+  },
+  {
+    "name": "dell",
+    "code": "#0085c3"
+  },
+  {
+    "name": "discord",
+    "code": "#7289da"
+  },
+  {
+    "name": "discord-2",
+    "code": "#99aab5"
+  },
+  {
+    "name": "discord-3",
+    "code": "#2c2f33"
+  },
+  {
+    "name": "discord-4",
+    "code": "#23272a"
+  },
+  {
+    "name": "docker",
+    "code": "#0db7ed"
+  },
+  {
+    "name": "docker-2",
+    "code": "#384d54"
+  },
+  {
+    "name": "dribbble",
+    "code": "#444444"
+  },
+  {
+    "name": "dribbble-2",
+    "code": "#ea4c89"
+  },
+  {
+    "name": "dropbox",
+    "code": "#007ee5"
+  },
+  {
+    "name": "dropbox-2",
+    "code": "#7b8994"
+  },
+  {
+    "name": "dropbox-3",
+    "code": "#47525d"
+  },
+  {
+    "name": "dropbox-4",
+    "code": "#3d464d"
+  },
+  {
+    "name": "drupal",
+    "code": "#0077c0"
+  },
+  {
+    "name": "drupal-2",
+    "code": "#81ceff"
+  },
+  {
+    "name": "drupal-3",
+    "code": "#00598e"
+  },
+  {
+    "name": "ebay",
+    "code": "#e53238"
+  },
+  {
+    "name": "ebay-2",
+    "code": "#0064d2"
+  },
+  {
+    "name": "ebay-3",
+    "code": "#f5af02"
+  },
+  {
+    "name": "ebay-4",
+    "code": "#86b817"
+  },
+  {
+    "name": "engadget",
+    "code": "#40b3ff"
+  },
+  {
+    "name": "etsy",
+    "code": "#d5641c"
+  },
+  {
+    "name": "evernote",
+    "code": "#2dbe60"
+  },
+  {
+    "name": "evernote-2",
+    "code": "#7b868a"
+  },
+  {
+    "name": "facebook",
+    "code": "#3b5998"
+  },
+  {
+    "name": "fancy",
+    "code": "#3098dc"
+  },
+  {
+    "name": "fancy-2",
+    "code": "#494e58"
+  },
+  {
+    "name": "fedex",
+    "code": "#660099"
+  },
+  {
+    "name": "fedex-2",
+    "code": "#ff6600"
+  },
+  {
+    "name": "feedly",
+    "code": "#2bb24c"
+  },
+  {
+    "name": "firefox",
+    "code": "#e66000"
+  },
+  {
+    "name": "firefox-2",
+    "code": "#ff9500"
+  },
+  {
+    "name": "firefox-3",
+    "code": "#ffcb00"
+  },
+  {
+    "name": "firefox-4",
+    "code": "#00539f"
+  },
+  {
+    "name": "fitbit",
+    "code": "#4cc2c4"
+  },
+  {
+    "name": "fitbit-2",
+    "code": "#f54785"
+  },
+  {
+    "name": "fitbit-3",
+    "code": "#343434"
+  },
+  {
+    "name": "flickr",
+    "code": "#0063dc"
+  },
+  {
+    "name": "flickr-2",
+    "code": "#ff0084"
+  },
+  {
+    "name": "foursquare",
+    "code": "#f94877"
+  },
+  {
+    "name": "foursquare-2",
+    "code": "#0732a2"
+  },
+  {
+    "name": "foursquare-3",
+    "code": "#2d5be3"
+  },
+  {
+    "name": "github",
+    "code": "#4078c0"
+  },
+  {
+    "name": "github-2",
+    "code": "#6cc644"
+  },
+  {
+    "name": "github-3",
+    "code": "#bd2c00"
+  },
+  {
+    "name": "github-4",
+    "code": "#c9510c"
+  },
+  {
+    "name": "github-5",
+    "code": "#6e5494"
+  },
+  {
+    "name": "github-6",
+    "code": "#fafafa"
+  },
+  {
+    "name": "github-7",
+    "code": "#f5f5f5"
+  },
+  {
+    "name": "github-8",
+    "code": "#333333"
+  },
+  {
+    "name": "gitlab",
+    "code": "#fca326"
+  },
+  {
+    "name": "gitlab-2",
+    "code": "#fc6d26"
+  },
+  {
+    "name": "gitlab-3",
+    "code": "#e24329"
+  },
+  {
+    "name": "gitlab-4",
+    "code": "#554488"
+  },
+  {
+    "name": "godaddy",
+    "code": "#7db701"
+  },
+  {
+    "name": "godaddy-2",
+    "code": "#ff8a00"
+  },
+  {
+    "name": "google",
+    "code": "#4285f4"
+  },
+  {
+    "name": "google-2",
+    "code": "#34a853"
+  },
+  {
+    "name": "google-3",
+    "code": "#fbbc05"
+  },
+  {
+    "name": "google-4",
+    "code": "#ea4335"
+  },
+  {
+    "name": "google-5",
+    "code": "#e7e6dd"
+  },
+  {
+    "name": "google-allo",
+    "code": "#fbbc05"
+  },
+  {
+    "name": "google-duo",
+    "code": "#4285f4"
+  },
+  {
+    "name": "google-plus",
+    "code": "#dd4b39"
+  },
+  {
+    "name": "googleplus",
+    "code": "#dc4e41"
+  },
+  {
+    "name": "gravatar",
+    "code": "#1e8cbe"
+  },
+  {
+    "name": "groupon",
+    "code": "#82b548"
+  },
+  {
+    "name": "grunt",
+    "code": "#fba919"
+  },
+  {
+    "name": "grunt-2",
+    "code": "#463014"
+  },
+  {
+    "name": "gulp",
+    "code": "#CF4646"
+  },
+  {
+    "name": "gulp-2",
+    "code": "#FFFFFF"
+  },
+  {
+    "name": "hangouts",
+    "code": "#0f9d58"
+  },
+  {
+    "name": "hatena-bookmark",
+    "code": "#00a4de"
+  },
+  {
+    "name": "heroku",
+    "code": "#c9c3e6"
+  },
+  {
+    "name": "heroku-2",
+    "code": "#6762a6"
+  },
+  {
+    "name": "hootsuite",
+    "code": "#003265"
+  },
+  {
+    "name": "hootsuite-2",
+    "code": "#f7e8d5"
+  },
+  {
+    "name": "hootsuite-3",
+    "code": "#ffbd0a"
+  },
+  {
+    "name": "hootsuite-4",
+    "code": "#c6af92"
+  },
+  {
+    "name": "hootsuite-5",
+    "code": "#71685f"
+  },
+  {
+    "name": "hootsuite-6",
+    "code": "#54493f"
+  },
+  {
+    "name": "hootsuite-7",
+    "code": "#38322d"
+  },
+  {
+    "name": "html5",
+    "code": "#e34f26"
+  },
+  {
+    "name": "hulu",
+    "code": "#66aa33"
+  },
+  {
+    "name": "hulu-2",
+    "code": "#99cc33"
+  },
+  {
+    "name": "hulu-3",
+    "code": "#41811e"
+  },
+  {
+    "name": "hulu-4",
+    "code": "#222222"
+  },
+  {
+    "name": "hulu-5",
+    "code": "#666666"
+  },
+  {
+    "name": "hulu-6",
+    "code": "#e8e8e8"
+  },
+  {
+    "name": "hyatt",
+    "code": "#6d6e71"
+  },
+  {
+    "name": "hyatt-2",
+    "code": "#bf5b20"
+  },
+  {
+    "name": "hyatt-3",
+    "code": "#006e96"
+  },
+  {
+    "name": "hyatt-4",
+    "code": "#8c8700"
+  },
+  {
+    "name": "hyatt-5",
+    "code": "#ad5f7d"
+  },
+  {
+    "name": "hyatt-6",
+    "code": "#d79100"
+  },
+  {
+    "name": "ibm",
+    "code": "#006699"
+  },
+  {
+    "name": "icons8",
+    "code": "#32c24d"
+  },
+  {
+    "name": "ifttt",
+    "code": "#33ccff"
+  },
+  {
+    "name": "ifttt-2",
+    "code": "#ff4400"
+  },
+  {
+    "name": "ifttt-3",
+    "code": "#000000"
+  },
+  {
+    "name": "ikea",
+    "code": "#ffcc00"
+  },
+  {
+    "name": "ikea-2",
+    "code": "#003399"
+  },
+  {
+    "name": "imgur",
+    "code": "#85bf25"
+  },
+  {
+    "name": "indeed",
+    "code": "#2164f4"
+  },
+  {
+    "name": "indeed-2",
+    "code": "#ff6600"
+  },
+  {
+    "name": "indiegogo",
+    "code": "#eb1478"
+  },
+  {
+    "name": "instagram",
+    "code": "#405de6"
+  },
+  {
+    "name": "instagram-2",
+    "code": "#5851db"
+  },
+  {
+    "name": "instagram-3",
+    "code": "#833ab4"
+  },
+  {
+    "name": "instagram-4",
+    "code": "#c13584"
+  },
+  {
+    "name": "instagram-5",
+    "code": "#e1306c"
+  },
+  {
+    "name": "instagram-6",
+    "code": "#fd1d1d"
+  },
+  {
+    "name": "instagram-7",
+    "code": "#f56040"
+  },
+  {
+    "name": "instagram-8",
+    "code": "#f77737"
+  },
+  {
+    "name": "instagram-9",
+    "code": "#fcaf45"
+  },
+  {
+    "name": "instagram-10",
+    "code": "#ffdc80"
+  },
+  {
+    "name": "instapaper",
+    "code": "#000000"
+  },
+  {
+    "name": "instapaper-2",
+    "code": "#428bca"
+  },
+  {
+    "name": "intel",
+    "code": "#0f7dc2"
+  },
+  {
+    "name": "ios",
+    "code": "#5fc9f8"
+  },
+  {
+    "name": "ios-2",
+    "code": "#fecb2e"
+  },
+  {
+    "name": "ios-3",
+    "code": "#fd9426"
+  },
+  {
+    "name": "ios-4",
+    "code": "#fc3158"
+  },
+  {
+    "name": "ios-5",
+    "code": "#147efb"
+  },
+  {
+    "name": "ios-6",
+    "code": "#53d769"
+  },
+  {
+    "name": "ios-7",
+    "code": "#fc3d39"
+  },
+  {
+    "name": "ios-8",
+    "code": "#8e8e93"
+  },
+  {
+    "name": "issuu",
+    "code": "#f36d5d"
+  },
+  {
+    "name": "istock",
+    "code": "#fe423f"
+  },
+  {
+    "name": "istock-2",
+    "code": "#02a388"
+  },
+  {
+    "name": "istock-3",
+    "code": "#0c0d0d"
+  },
+  {
+    "name": "istock-4",
+    "code": "#e8eded"
+  },
+  {
+    "name": "istock-5",
+    "code": "#dce1e1"
+  },
+  {
+    "name": "javascript",
+    "code": "#f7df1e"
+  },
+  {
+    "name": "jquery",
+    "code": "#0769ad"
+  },
+  {
+    "name": "jquery-2",
+    "code": "#7acef4"
+  },
+  {
+    "name": "kickstarter",
+    "code": "#2bde73"
+  },
+  {
+    "name": "kickstarter-2",
+    "code": "#0f2105"
+  },
+  {
+    "name": "laravel",
+    "code": "#f55247"
+  },
+  {
+    "name": "line",
+    "code": "#00c300"
+  },
+  {
+    "name": "linkedin",
+    "code": "#0077b5"
+  },
+  {
+    "name": "linkedin-2",
+    "code": "#000000"
+  },
+  {
+    "name": "linkedin-3",
+    "code": "#313335"
+  },
+  {
+    "name": "linkedin-4",
+    "code": "#86888a"
+  },
+  {
+    "name": "linkedin-5",
+    "code": "#caccce"
+  },
+  {
+    "name": "linkedin-6",
+    "code": "#00a0dc"
+  },
+  {
+    "name": "linkedin-7",
+    "code": "#8d6cab"
+  },
+  {
+    "name": "linkedin-8",
+    "code": "#dd5143"
+  },
+  {
+    "name": "linkedin-9",
+    "code": "#e68523"
+  },
+  {
+    "name": "lyft",
+    "code": "#ff00bf"
+  },
+  {
+    "name": "lyft-2",
+    "code": "#352384"
+  },
+  {
+    "name": "lyft-3",
+    "code": "#333447"
+  },
+  {
+    "name": "lyft-4",
+    "code": "#f3f3f5"
+  },
+  {
+    "name": "mailchimp",
+    "code": "#239ab9"
+  },
+  {
+    "name": "mailchimp-2",
+    "code": "#52bad5"
+  },
+  {
+    "name": "mailchimp-3",
+    "code": "#6dc5dc"
+  },
+  {
+    "name": "mailchimp-4",
+    "code": "#373737"
+  },
+  {
+    "name": "mailchimp-5",
+    "code": "#5d5c5d"
+  },
+  {
+    "name": "mailchimp-6",
+    "code": "#b7b7b7"
+  },
+  {
+    "name": "mastercard",
+    "code": "#cc0000"
+  },
+  {
+    "name": "mastercard-2",
+    "code": "#ff9900"
+  },
+  {
+    "name": "mastercard-3",
+    "code": "#000066"
+  },
+  {
+    "name": "mcdonalds",
+    "code": "#bf0c0c"
+  },
+  {
+    "name": "mcdonalds-2",
+    "code": "#e76a05"
+  },
+  {
+    "name": "mcdonalds-3",
+    "code": "#ffc600"
+  },
+  {
+    "name": "mcdonalds-4",
+    "code": "#47bc00"
+  },
+  {
+    "name": "mcdonalds-5",
+    "code": "#05007b"
+  },
+  {
+    "name": "mcdonalds-6",
+    "code": "#9748a8"
+  },
+  {
+    "name": "mcdonalds-7",
+    "code": "#2bb3f3"
+  },
+  {
+    "name": "mcdonalds-8",
+    "code": "#865200"
+  },
+  {
+    "name": "medium",
+    "code": "#00ab6c"
+  },
+  {
+    "name": "messenger",
+    "code": "#0084ff"
+  },
+  {
+    "name": "microsoft",
+    "code": "#f65314"
+  },
+  {
+    "name": "microsoft-2",
+    "code": "#7cbb00"
+  },
+  {
+    "name": "microsoft-3",
+    "code": "#00a1f1"
+  },
+  {
+    "name": "microsoft-4",
+    "code": "#ffbb00"
+  },
+  {
+    "name": "microsoft-office",
+    "code": "#ea3e23"
+  },
+  {
+    "name": "microsoft-surface",
+    "code": "#0078d7"
+  },
+  {
+    "name": "microsoft-surface-2",
+    "code": "#eeeeee"
+  },
+  {
+    "name": "mozilla",
+    "code": "#c13832"
+  },
+  {
+    "name": "mozilla-2",
+    "code": "#d7d3c8"
+  },
+  {
+    "name": "mozilla-3",
+    "code": "#4d4e53"
+  },
+  {
+    "name": "mysql",
+    "code": "#00758f"
+  },
+  {
+    "name": "mysql-2",
+    "code": "#f29111"
+  },
+  {
+    "name": "netflix",
+    "code": "#e50914"
+  },
+  {
+    "name": "netflix-2",
+    "code": "#221f1f"
+  },
+  {
+    "name": "netflix-3",
+    "code": "#f5f5f1"
+  },
+  {
+    "name": "node-js",
+    "code": "#215732"
+  },
+  {
+    "name": "node-js-2",
+    "code": "#6cc24a"
+  },
+  {
+    "name": "node-js-3",
+    "code": "#44883e"
+  },
+  {
+    "name": "node-js-4",
+    "code": "#333333"
+  },
+  {
+    "name": "nokia",
+    "code": "#124191"
+  },
+  {
+    "name": "npm",
+    "code": "#cb3837"
+  },
+  {
+    "name": "olympus",
+    "code": "#08107b"
+  },
+  {
+    "name": "olympus-2",
+    "code": "#dfb226"
+  },
+  {
+    "name": "olympus-3",
+    "code": "#777777"
+  },
+  {
+    "name": "opera",
+    "code": "#cc0f16"
+  },
+  {
+    "name": "opera-2",
+    "code": "#9c9e9f"
+  },
+  {
+    "name": "oracle",
+    "code": "#ff0000"
+  },
+  {
+    "name": "oracle-2",
+    "code": "#000000"
+  },
+  {
+    "name": "oracle-3",
+    "code": "#7f7f7f"
+  },
+  {
+    "name": "panasonic",
+    "code": "#0f58a8"
+  },
+  {
+    "name": "panasonic-2",
+    "code": "#000000"
+  },
+  {
+    "name": "paypal",
+    "code": "#003087"
+  },
+  {
+    "name": "paypal-2",
+    "code": "#009cde"
+  },
+  {
+    "name": "paypal-3",
+    "code": "#012169"
+  },
+  {
+    "name": "paypal-dark",
+    "code": "#1e477a"
+  },
+  {
+    "name": "paypal-dark-2",
+    "code": "#3b7bbf"
+  },
+  {
+    "name": "philips",
+    "code": "#0e5fd8"
+  },
+  {
+    "name": "php",
+    "code": "#8892be"
+  },
+  {
+    "name": "php-2",
+    "code": "#4f5b93"
+  },
+  {
+    "name": "php-3",
+    "code": "#99cc99"
+  },
+  {
+    "name": "pinterest",
+    "code": "#bd081c"
+  },
+  {
+    "name": "pocket",
+    "code": "#ef4056"
+  },
+  {
+    "name": "pocket-2",
+    "code": "#50bcb6"
+  },
+  {
+    "name": "product-hunt",
+    "code": "#da552f"
+  },
+  {
+    "name": "product-hunt-2",
+    "code": "#534540"
+  },
+  {
+    "name": "product-hunt-3",
+    "code": "#988f8c"
+  },
+  {
+    "name": "product-hunt-4",
+    "code": "#00b27f"
+  },
+  {
+    "name": "python",
+    "code": "#ffde57"
+  },
+  {
+    "name": "python-2",
+    "code": "#4584b6"
+  },
+  {
+    "name": "python-3",
+    "code": "#646464"
+  },
+  {
+    "name": "react",
+    "code": "#00d8ff"
+  },
+  {
+    "name": "ruby",
+    "code": "#cc342d"
+  },
+  {
+    "name": "ruby-on-rails",
+    "code": "#cc0000"
+  },
+  {
+    "name": "salesforce",
+    "code": "#1798c1"
+  },
+  {
+    "name": "salesforce-2",
+    "code": "#ff1100"
+  },
+  {
+    "name": "samsung",
+    "code": "#1428a0"
+  },
+  {
+    "name": "shopify",
+    "code": "#96bf48"
+  },
+  {
+    "name": "shopify-2",
+    "code": "#479ccf"
+  },
+  {
+    "name": "shopify-3",
+    "code": "#2d3538"
+  },
+  {
+    "name": "shopify-4",
+    "code": "#f5f5f5"
+  },
+  {
+    "name": "shopify-5",
+    "code": "#f2f7fa"
+  },
+  {
+    "name": "shopify-6",
+    "code": "#666666"
+  },
+  {
+    "name": "skype",
+    "code": "#00aff0"
+  },
+  {
+    "name": "slack",
+    "code": "#6ecadc"
+  },
+  {
+    "name": "slack-2",
+    "code": "#e9a820"
+  },
+  {
+    "name": "slack-3",
+    "code": "#e01563"
+  },
+  {
+    "name": "slack-4",
+    "code": "#3eb991"
+  },
+  {
+    "name": "slideshare",
+    "code": "#0077b5"
+  },
+  {
+    "name": "sony",
+    "code": "#000000"
+  },
+  {
+    "name": "sony-2",
+    "code": "#ffffff"
+  },
+  {
+    "name": "spotify",
+    "code": "#1db954"
+  },
+  {
+    "name": "spotify-2",
+    "code": "#191414"
+  },
+  {
+    "name": "strava",
+    "code": "#fc4c02"
+  },
+  {
+    "name": "stripe",
+    "code": "#00afe1"
+  },
+  {
+    "name": "subway",
+    "code": "#489e3b"
+  },
+  {
+    "name": "subway-2",
+    "code": "#fabd42"
+  },
+  {
+    "name": "subway-3",
+    "code": "#ffffff"
+  },
+  {
+    "name": "swarm",
+    "code": "#f06d1f"
+  },
+  {
+    "name": "swarm-2",
+    "code": "#ffa633"
+  },
+  {
+    "name": "trello",
+    "code": "#0079bf"
+  },
+  {
+    "name": "tumblr",
+    "code": "#35465c"
+  },
+  {
+    "name": "twitter",
+    "code": "#1da1f2"
+  },
+  {
+    "name": "twitter-2",
+    "code": "#14171a"
+  },
+  {
+    "name": "twitter-3",
+    "code": "#657786"
+  },
+  {
+    "name": "twitter-4",
+    "code": "#aab8c2"
+  },
+  {
+    "name": "twitter-5",
+    "code": "#e1e8ed"
+  },
+  {
+    "name": "twitter-6",
+    "code": "#f5f8fa"
+  },
+  {
+    "name": "typekit",
+    "code": "#98ce1e"
+  },
+  {
+    "name": "uber",
+    "code": "#09091a"
+  },
+  {
+    "name": "uber-2",
+    "code": "#c0c0c8"
+  },
+  {
+    "name": "uber-3",
+    "code": "#1fbad6"
+  },
+  {
+    "name": "ubuntu",
+    "code": "#dd4814"
+  },
+  {
+    "name": "unity",
+    "code": "#222c37"
+  },
+  {
+    "name": "ustream",
+    "code": "#3388ff"
+  },
+  {
+    "name": "vimeo",
+    "code": "#162221"
+  },
+  {
+    "name": "vimeo-2",
+    "code": "#1ab7ea"
+  },
+  {
+    "name": "vine",
+    "code": "#00b488"
+  },
+  {
+    "name": "visa",
+    "code": "#1a1f71"
+  },
+  {
+    "name": "visa-2",
+    "code": "#f7b600"
+  },
+  {
+    "name": "vue-js",
+    "code": "#42b883"
+  },
+  {
+    "name": "vue-js-2",
+    "code": "#35495e"
+  },
+  {
+    "name": "wechat",
+    "code": "#7bb32e"
+  },
+  {
+    "name": "weibo",
+    "code": "#e71d34"
+  },
+  {
+    "name": "wikipedia",
+    "code": "#000000"
+  },
+  {
+    "name": "wikipedia-2",
+    "code": "#636466"
+  },
+  {
+    "name": "wikipedia-3",
+    "code": "#939598"
+  },
+  {
+    "name": "wikipedia-4",
+    "code": "#c7c8ca"
+  },
+  {
+    "name": "windows",
+    "code": "#0078d7"
+  },
+  {
+    "name": "windows-2",
+    "code": "#002050"
+  },
+  {
+    "name": "windows-3",
+    "code": "#ffb900"
+  },
+  {
+    "name": "windows-4",
+    "code": "#d83b01"
+  },
+  {
+    "name": "windows-5",
+    "code": "#e81123"
+  },
+  {
+    "name": "windows-6",
+    "code": "#b4009e"
+  },
+  {
+    "name": "windows-7",
+    "code": "#5c2d91"
+  },
+  {
+    "name": "windows-8",
+    "code": "#008272"
+  },
+  {
+    "name": "windows-9",
+    "code": "#107c10"
+  },
+  {
+    "name": "woocommerce",
+    "code": "#96588a"
+  },
+  {
+    "name": "woocommerce-2",
+    "code": "#3c3c3c"
+  },
+  {
+    "name": "woocommerce-3",
+    "code": "#71b02f"
+  },
+  {
+    "name": "wordpress",
+    "code": "#21759b"
+  },
+  {
+    "name": "wordpress-2",
+    "code": "#d54e21"
+  },
+  {
+    "name": "wordpress-3",
+    "code": "#464646"
+  },
+  {
+    "name": "wordpress-com",
+    "code": "#0087be"
+  },
+  {
+    "name": "wordpress-com-2",
+    "code": "#78dcfa"
+  },
+  {
+    "name": "wordpress-com-3",
+    "code": "#00aadc"
+  },
+  {
+    "name": "wordpress-com-4",
+    "code": "#005082"
+  },
+  {
+    "name": "wordpress-com-5",
+    "code": "#87a6bc"
+  },
+  {
+    "name": "wunderlist",
+    "code": "#2b96f1"
+  },
+  {
+    "name": "xbox",
+    "code": "#52b043"
+  },
+  {
+    "name": "yahoo",
+    "code": "#410093"
+  },
+  {
+    "name": "yelp",
+    "code": "#af0606"
+  },
+  {
+    "name": "yo",
+    "code": "#9b59b6"
+  },
+  {
+    "name": "yo-2",
+    "code": "#e74c3c"
+  },
+  {
+    "name": "yo-3",
+    "code": "#8e44ad"
+  },
+  {
+    "name": "yo-4",
+    "code": "#2980b9"
+  },
+  {
+    "name": "yo-5",
+    "code": "#f1c40f"
+  },
+  {
+    "name": "yo-6",
+    "code": "#16a085"
+  },
+  {
+    "name": "yo-7",
+    "code": "#34495e"
+  },
+  {
+    "name": "yo-8",
+    "code": "#3498db"
+  },
+  {
+    "name": "yo-9",
+    "code": "#2ecc71"
+  },
+  {
+    "name": "yo-10",
+    "code": "#1abc9c"
+  },
+  {
+    "name": "youtube",
+    "code": "#ff0000"
+  },
+  {
+    "name": "youtube-2",
+    "code": "#282828"
+  },
+  {
+    "name": "zapier",
+    "code": "#ff4a00"
+  },
+  {
+    "name": "zapier-2",
+    "code": "#fd7622"
+  },
+  {
+    "name": "zapier-3",
+    "code": "#ffc43e"
+  },
+  {
+    "name": "zapier-4",
+    "code": "#5f6c72"
+  },
+  {
+    "name": "zapier-5",
+    "code": "#499df3"
+  },
+  {
+    "name": "zapier-6",
+    "code": "#13d0ab"
+  },
+  {
+    "name": "zendesk",
+    "code": "#00363d"
+  },
+  {
+    "name": "zendesk-2",
+    "code": "#f79a3e"
+  },
+  {
+    "name": "zendesk-3",
+    "code": "#eb6651"
+  },
+  {
+    "name": "zendesk-4",
+    "code": "#30aabc"
+  },
+  {
+    "name": "zendesk-5",
+    "code": "#eb4962"
+  },
+  {
+    "name": "zendesk-6",
+    "code": "#37b8af"
+  },
+  {
+    "name": "zendesk-7",
+    "code": "#78a300"
+  },
+  {
+    "name": "zendesk-8",
+    "code": "#f0ca28"
+  }
+]
