@@ -1,7 +1,7 @@
 <template lang="pug">
   .footer
     p.copyright
-      a.icon(href="https://github.com/intkaaa/color", target="_blank", rel="noopener") #[img(src="/icon-github.svg", alt="GitHub")]
+      a.icon(href="https://github.com/intkaaa/colllor", target="_blank", rel="noopener") #[img(src="/icon-github.svg", alt="GitHub")]
       span.dot
       span.text Made by 
       a.profile(href="https://higr.jp", target="_blank", rel="noopener") intkaaa
