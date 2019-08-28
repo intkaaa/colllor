@@ -1,6 +1,6 @@
 # colllor.io
 
-> My project
+> Brand color search tool
 
 ## Build Setup
 
