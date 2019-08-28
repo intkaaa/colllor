@@ -1,7 +1,7 @@
 {
-  "name": "color",
+  "name": "colllor.io",
   "version": "1.0.0",
-  "description": "My project",
+  "description": "Brand color search tool",
   "author": "Takahito Inoue",
   "private": true,
   "scripts": {
