@@ -1,5 +1,9 @@
 [
   {
+    "name": "400F",
+    "code": "#CE1226"
+  },
+  {
     "name": "adobe",
     "code": "#ff0000"
   },
@@ -66,6 +70,26 @@
   {
     "name": "baidu-2",
     "code": "#2529d8"
+  },
+  {
+    "name": "basecamp",
+    "code": "#d9f1fd"
+  },
+  {
+    "name": "basecamp-2",
+    "code": "#40b6e9"
+  },
+  {
+    "name": "basecamp-3",
+    "code": "#febc11"
+  },
+  {
+    "name": "basecamp-4",
+    "code": "#ff0f3b"
+  },
+  {
+    "name": "basecamp-5",
+    "code": "#31264c"
   },
   {
     "name": "bing",
@@ -466,6 +490,18 @@
   {
     "name": "heroku-2",
     "code": "#6762a6"
+  },
+  {
+    "name": "holiday",
+    "code": "#F27C55"
+  },
+  {
+    "name": "holiday-2",
+    "code": "#FF9673"
+  },
+  {
+    "name": "holiday-3",
+    "code": "#FFB299"
   },
   {
     "name": "hootsuite",
@@ -1161,6 +1197,14 @@
   },
   {
     "name": "subway-3",
+    "code": "#ffffff"
+  },
+  {
+    "name": "supercrowds",
+    "code": "#181818"
+  },
+  {
+    "name": "supercrowds-2",
     "code": "#ffffff"
   },
   {
