@@ -19,7 +19,7 @@
   height 120px
   padding 0 32px
   +sp()
-    height 100px
+    height 80px
 
   .copyright
     display flex

@@ -18,7 +18,7 @@
   height 120px
   padding 0 32px
   +sp()
-    height 100px
+    height 80px
     padding 0 16px
 
   .logo
@@ -28,7 +28,7 @@
       letter-spacing 0.08rem
       +sp()
         font-size 2.8rem
-        letter-spacing 0
+        letter-spacing -2px
 
   .admin
     a
