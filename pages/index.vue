@@ -23,7 +23,6 @@
 </template>
 
 <script>
-import viewportUnitsBuggyfill from 'viewport-units-buggyfill'
 import ClipboardJS from 'clipboard'
 import Data from '~/data/colors.json'
 import Header from '~/components/header.vue'
@@ -58,8 +57,8 @@ export default {
 
   mounted() {
     // window adjust
+    const viewportUnitsBuggyfill = require('viewport-units-buggyfill')
     viewportUnitsBuggyfill.init()
-    window.addEventListener('resize', viewportUnitsBuggyfill.refresh, true)
 
     // background
     // if (this.$refs.input.value.length < 1) {
