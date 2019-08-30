@@ -15,19 +15,19 @@
   top 0
   left 0
   width 100%
-  height 80px
+  height 120px
   padding 0 32px
   +sp()
-    height 70px
+    height 100px
     padding 0 16px
 
   .logo
     a
       color white
-      font-size 2.8rem
+      font-size 3.2rem
       letter-spacing 0.08rem
       +sp()
-        font-size 2.4rem
+        font-size 2.8rem
         letter-spacing 0
 
   .admin

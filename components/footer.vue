@@ -16,8 +16,10 @@
   bottom 0
   left 0
   width 100%
-  height 70px
+  height 120px
   padding 0 32px
+  +sp()
+    height 100px
 
   .copyright
     display flex

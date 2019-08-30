@@ -117,7 +117,7 @@ export default {
 
   .wrap
     position relative
-    padding-top 40px
+    padding-top 80px
     +sp()
       padding 40px 16px 0
 
